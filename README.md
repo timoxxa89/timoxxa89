@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy @timoxxa89.
 
-🎓 Estudiante de 1º de DAM.
+🎓 Estudiante de DAM.
 
 💻 Apasionado por la programación y muy interesado en el funcionamiento de la inteligencia artificial.
 
