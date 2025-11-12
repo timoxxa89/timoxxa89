@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Estudiante de DAM.<br><br>💻 Apasionado por la programación y muy interesado en el funcionamiento de la inteligencia artificial.<br><br>🚀 Actualmente aprendiendo Java, Python, XML, SQL, entre otros..<br><br>🔭 Buscando prácticas o proyectos interesantes donde colaborar y seguir aprendiendo.<br><br>📫 Contacto: jhonysgarcialuis@gmail.com</p>
+<p align="left">🎓 Desarrollador de Aplicaciones Multiplataforma.<br><br>💻 Apasionado por la programación y muy interesado en el funcionamiento de la inteligencia artificial.<br><br>🚀 Actualmente aprendiendo Java, Python, XML, SQL, JavaScript, entre otros..<br><br>🔭 Buscando prácticas o proyectos interesantes donde colaborar y seguir aprendiendo.<br><br>📫 Contacto: jhonysgarcialuis@gmail.com</p>
 
 ###
 
@@ -18,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
